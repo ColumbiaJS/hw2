@@ -1,6 +1,6 @@
 ## HW2: JavaScript Functions and Intro to Node
 
-### DUE DATE: Fri, Feb 6 at 11:59 PM
+### DUE DATE: Sun, Feb 8 at 11:59 PM
 
 There are 3 directories inside of the **lib/** folder.  Each of these directories contains an exercise.  The README.md file inside of each explains exactly what is expected of you, the test file (the one that ends with .spec.js) is set up to verify that the file is working (or not working) as expected, and the file itself contains a function in the form:
 
